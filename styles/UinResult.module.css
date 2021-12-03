@@ -1,0 +1,50 @@
+.wrapper{
+  min-width: 685px;
+}
+.uinName{
+  margin-bottom: 24px;
+}
+.fromWrapper{
+  margin-bottom: 32px;
+  position: relative;
+}
+.input{
+  font-size: 1.125rem;
+  padding: 6px;
+  border: 1px solid #979797;
+  margin-right: 10px;
+  width: 400px;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+.btn{
+  background-color: #63C556;
+  border: none;
+  padding: 7px 32px;
+  font-size: 1rem;
+  color: #fff;
+}
+.reminder{
+  position: absolute;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.226);
+  width: 398px;
+  line-height: 24px;
+  color: #4A4A4A;
+  padding-left: 5px;
+  margin-top: 2px;
+  font-size: 1.125rem;
+  cursor: pointer;
+}
+.hidden{
+  visibility: hidden;
+}
+.visible{
+  visibility: visible;
+}
+.digitsLength{
+  position: absolute;
+  font-size: .8rem;
+  color: red;
+  padding-bottom: 20px;
+  top: -20px
+}

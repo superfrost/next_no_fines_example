@@ -1,0 +1,18 @@
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.spiner{
+  animation: spin 1s infinite;
+}
+.wrapper div{
+  margin-top: 24px
+}
+
+@keyframes spin {
+  to{
+    rotate: 360deg;
+  }
+}

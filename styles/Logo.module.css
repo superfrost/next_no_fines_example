@@ -1,0 +1,13 @@
+.wrapper{
+  margin-bottom: 24px;
+}
+.logo{
+  background-color: #63C556;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 10px;
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-right: 5px;
+}

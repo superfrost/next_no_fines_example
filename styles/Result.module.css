@@ -1,0 +1,22 @@
+.resultWrapper{
+  border: 1px solid #4A4A4A;
+  padding: 22px 15px;
+  max-width: 685px;
+}
+.resultName{
+  margin-bottom: 10px;
+}
+.resultName div{
+  font-size: 1.125rem;
+}
+.resultInfo{
+  font-size: 0.875rem;
+  display: flex;
+}
+.resultInfo span{
+  font-size: 0.875rem;
+}
+.fineNames{
+  width: 250px;
+  display: flex;
+}
